@@ -1,16 +1,18 @@
-## Hi there 👋
+## `> whoami`
 
-<!--
-**vvs0x/vvs0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+vvs0x — builder, tinkerer, perpetual learner.
+```
 
-Here are some ideas to get you started:
+Somewhere between a terminal and a whiteboard. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Toolbelt
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vvs0x&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvs0x&layout=compact&hide_border=true&theme=tokyonight)
