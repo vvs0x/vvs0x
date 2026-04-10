@@ -1,11 +1,3 @@
-## `> whoami`
-
-```text
-vvs0x — builder, tinkerer, perpetual learner.
-```
-
-Somewhere between a terminal and a whiteboard. 
-
 ### Languages
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
